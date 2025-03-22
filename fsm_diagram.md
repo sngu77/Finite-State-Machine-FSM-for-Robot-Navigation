@@ -1,3 +1,4 @@
+```mermaid
 stateDiagram-v2
     [*] --> FORWARD
     FORWARD --> TURN_180 : front_sensor > proximity_threshold
